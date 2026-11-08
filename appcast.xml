@@ -3,6 +3,17 @@
     <channel>
         <title>Studio Motion</title>
         <item>
+            <title>1.2</title>
+            <pubDate>Sun, 08 Nov 2026 15:55:46 +0100</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p>Mises à jour beaucoup plus légères : dès la prochaine version, seules les différences sont téléchargées (quelques centaines de Ko au lieu de 63 Mo). Structure de l&#x27;app réorganisée selon les recommandations d&#x27;Apple.</p>]]></description>
+            <enclosure url="https://github.com/gvllom/StudioMotion/releases/download/v1.2/StudioMotion-1.2.zip" type="application/octet-stream" sparkle:edSignature="m5qDhT8hac4zqNdJ5frHg0Ns/g7drPgSniQmHP0OewRcC6r6yaErgbz2ZbC5jW2APZy5YOGfmq0/PE0iQl01Cw==" length="63353746"/>
+
+        </item>
+        <item>
             <title>1.1</title>
             <pubDate>Sun, 08 Nov 2026 15:44:07 +0100</pubDate>
             <sparkle:version>2</sparkle:version>
