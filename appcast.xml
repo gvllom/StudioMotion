@@ -3,6 +3,17 @@
     <channel>
         <title>Studio Motion</title>
         <item>
+            <title>1.1</title>
+            <pubDate>Sun, 08 Nov 2026 15:44:07 +0100</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p>Connexion à Claude directement depuis l&#x27;app : bouton « Installer et connecter Claude », clé API possible dans la fenêtre Connexions, voyant « Connexions » en bas à gauche, détection de Claude Code quelle que soit son installation. Mises à jour plus légères (différences).</p>]]></description>
+            <enclosure url="https://github.com/gvllom/StudioMotion/releases/download/v1.1/StudioMotion-1.1.zip" type="application/octet-stream" sparkle:edSignature="NIBJPdSZm1/3vbeGM8y6N97S6J82pY4mP1rJ5Jrzfjf9WJMo4QUNqybmW/vaiyg2EqaDAN0agZa7K6tdFWUXDQ==" length="63343817"/>
+
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Sun, 08 Nov 2026 15:12:33 +0100</pubDate>
             <sparkle:version>1</sparkle:version>
