@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Studio Motion</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Sun, 08 Nov 2026 15:12:33 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p>Première version de Studio Motion : 12 styles, voix Mac et ElevenLabs, Claude en local (script, accroches, révisions, publication), rendu Rec.709 gamma 2.4, presets, lueur diffuse, versions V1/V2…</p>]]></description>
+            <enclosure url="https://github.com/gvllom/StudioMotion/releases/download/v1.0/StudioMotion-1.0.zip" type="application/octet-stream" sparkle:edSignature="GZBNiptzgkUR6DxIOYP3haU4sQv9FVaousQEaIU+1xZWVtzAiYij+S8YDjqkT8lnQNxxZBgw/XX2cgWxj0rSAA==" length="63341269"/>
+        </item>
+    </channel>
+</rss>
