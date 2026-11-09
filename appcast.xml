@@ -3,6 +3,21 @@
     <channel>
         <title>Studio Motion</title>
         <item>
+            <title>1.4.2</title>
+            <pubDate>Mon, 09 Nov 2026 13:06:36 +0100</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p>Montage plus dynamique : fond animé propre à chaque style, effet sur le mot-clé quand la voix le dit, 9 transitions variées avec whoosh. Scripts pensés pour la rétention : accroche plus forte, boucle ouverte, phrases courtes (5-6 mots) avec une phrase longue quand elle le mérite, mot-clé repris de la voix.</p>]]></description>
+            <enclosure url="https://github.com/gvllom/StudioMotion/releases/download/v1.4.2/StudioMotion-1.4.2.zip" type="application/octet-stream" sparkle:edSignature="G+sJis8RUscNtKTCtOByKXvAkDmp37TJuVoB61tJf5FUkdSWCl0Lxnpe5svfZZB7P0IOrOCyUZl/67EM1nIbAw==" length="64007370"/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/gvllom/StudioMotion/releases/download/v1.4.2/StudioMotion-6-from-5.delta" sparkle:deltaFrom="5" type="application/octet-stream" sparkle:edSignature="VSW3Y3YXmNLgXuKhjssn4R8iqAzsKG+umu1SN8praqK5oG6zW9DmtDqDJoPXNlz9clPj8YIyHX8ilpXlRAA2CA==" length="2535838"/>
+                <enclosure url="https://github.com/gvllom/StudioMotion/releases/download/v1.4.2/StudioMotion-6-from-4.delta" sparkle:deltaFrom="4" type="application/octet-stream" sparkle:edSignature="RylPpyoBU/2s3Vetr7L3t8TSs72Wju3v7s6ijRYi0AC3c3RKWqpjCnV2Ar1NS1u2D/U0+oNvbc5qO5+WBEReDA==" length="4914750"/>
+            </sparkle:deltas>
+
+        </item>
+        <item>
             <title>1.4.1</title>
             <pubDate>Sun, 08 Nov 2026 23:46:23 +0100</pubDate>
             <sparkle:version>5</sparkle:version>
