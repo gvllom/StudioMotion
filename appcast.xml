@@ -3,6 +3,21 @@
     <channel>
         <title>Studio Motion</title>
         <item>
+            <title>1.4.4</title>
+            <pubDate>Mon, 09 Nov 2026 23:09:56 +0100</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.4.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p>Voix Edge TTS gratuites (13 voix françaises) avec la phrase parfaitement synchronisée. 10 nouveaux styles : Brutaliste, Journal, Interface app, Rétro 70s, Bande dessinée, Hacker, Nature, Sport, Y2K chrome, Business data. Accroche visible dès la 1re image, zone sûre TikTok (et repère dans l&#x27;aperçu), option Fin en boucle. Couleurs, tailles et hauteur du texte par élément, ombre portée réglable, import et écoute des musiques. Textes qui ne se chevauchent plus, moins d&#x27;icônes, 6 variantes par effet sonore.</p>]]></description>
+            <enclosure url="https://github.com/gvllom/StudioMotion/releases/download/v1.4.4/StudioMotion-1.4.4.zip" type="application/octet-stream" sparkle:edSignature="W33iWn/SO2W7+YLdV2DKfDfr6dD5zGjhtJ1gZ56pZaL6DD3ncP078rxwCNeWZUDwRM1k5796STb6uKOyE/2CBQ==" length="67991431"/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/gvllom/StudioMotion/releases/download/v1.4.4/StudioMotion-7-from-6.delta" sparkle:deltaFrom="6" type="application/octet-stream" sparkle:edSignature="G5ZtzwrizgnE3yqhyqlrEt41f9Jaiw3QjkciNy6Vxs+R/ZJZaxK0FbnLhCnhYOJtu6TexPnvF143Q2gH4NQMDQ==" length="8243882"/>
+                <enclosure url="https://github.com/gvllom/StudioMotion/releases/download/v1.4.4/StudioMotion-7-from-5.delta" sparkle:deltaFrom="5" type="application/octet-stream" sparkle:edSignature="SqlSk0AwhiBpXSYCyeli/nibbGyYJXvTt3JGv93qOzuXVhVn7oxZOTVM8lnLFk1R2wboAMSxugXS1Ejfv+OEDQ==" length="8377510"/>
+            </sparkle:deltas>
+
+        </item>
+        <item>
             <title>1.4.2</title>
             <pubDate>Mon, 09 Nov 2026 13:06:36 +0100</pubDate>
             <sparkle:version>6</sparkle:version>
